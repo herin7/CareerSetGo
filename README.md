@@ -73,5 +73,3 @@ To run the backend server, navigate to the backend directory and use:
 ```bash
 python manage.py runserver
 ```
-
-# CareerSetGo
